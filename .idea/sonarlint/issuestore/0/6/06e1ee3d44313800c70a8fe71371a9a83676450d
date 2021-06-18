@@ -1,0 +1,14 @@
+
+qpython:S117."ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÐáü
+mpython:S117="VRename this parameter "secretWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù‚Ù¡
+6python:S125z"Remove this commented out code.(–²‚À
+fpython:S1542"ORename function "loadWords" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆÃ¯"
+qpython:S117="ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù‚Ù¡
+mpython:S117["VRename this parameter "secretWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(í½Ÿ’
+spython:S117"WRename this local variable "inFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ãš»úÿÿÿÿ
+mpython:S117."VRename this parameter "secretWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÐáü
+kpython:S1542."SRename function "isWordGuessed" to match the regular expression ^[a-z_][a-z0-9_]*$.(âÐáü
+qpython:S1542R"YRename function "getAvailableLetters" to match the regular expression ^[a-z_][a-z0-9_]*$.(àŸÐý
+mpython:S1542"PRename function "chooseWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(°žú‡ùÿÿÿÿ
+lpython:S1542="TRename function "getGuessedWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(ù‚Ù¡
+qpython:S117R"ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(àŸÐý
