@@ -38,6 +38,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/week 3: Structured Types/Problem_Set_3/ps3_hangman.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/week 3: Structured Types/Problem_Set_3/words.txt">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/workbook/abc.py">
           <value>
             <Attribute>

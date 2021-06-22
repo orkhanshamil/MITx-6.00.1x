@@ -1,0 +1,4 @@
+
+xpython:S117"ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù‚Ù¡8¼àªø¡/
+tpython:S117"VRename this parameter "secretWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù‚Ù¡8¼àªø¡/
+spython:S1542"TRename function "getGuessedWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(ù‚Ù¡8¼àªø¡/
