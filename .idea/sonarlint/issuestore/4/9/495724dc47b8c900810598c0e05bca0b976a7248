@@ -1,13 +1,13 @@
 
-lpython:S1542="TRename function "getGuessedWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(ù‚Ù¡
-qpython:S117="ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù‚Ù¡
 qpython:S117R"ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(àŸÐý
-spython:S117"WRename this local variable "inFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ãš»úÿÿÿÿ
 qpython:S1542R"YRename function "getAvailableLetters" to match the regular expression ^[a-z_][a-z0-9_]*$.(àŸÐý
-qpython:S117."ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÐáü
-mpython:S1542"PRename function "chooseWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(°žú‡ùÿÿÿÿ
 mpython:S117c"VRename this parameter "secretWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(í½Ÿ’
+lpython:S1542="TRename function "getGuessedWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(ù‚Ù¡
+spython:S117"WRename this local variable "inFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ãš»úÿÿÿÿ
 kpython:S1542."SRename function "isWordGuessed" to match the regular expression ^[a-z_][a-z0-9_]*$.(âÐáü
 fpython:S1542"ORename function "loadWords" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆÃ¯"
-mpython:S117."VRename this parameter "secretWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÐáü
+qpython:S117."ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÐáü
+mpython:S1542"PRename function "chooseWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(°žú‡ùÿÿÿÿ
+qpython:S117="ZRename this parameter "lettersGuessed" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù‚Ù¡
 mpython:S117="VRename this parameter "secretWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù‚Ù¡
+mpython:S117."VRename this parameter "secretWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÐáü
